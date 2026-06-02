@@ -49,3 +49,34 @@
 // let fullName="Aslam Dahri";
 // console.log(fullName.toLocaleLowerCase());
 
+// let age;
+// console.log(age);
+
+// let age=null;
+// console.log(age);
+// let age=null;
+// let num=36543439909;
+// console.log(typeof num);
+// console.log(typeof age);
+
+//==> In string we can not reverse directly so first we seperate string by using split methode then reverse given splited variable then we join reversed as a final result.
+// let name="Aslam";
+// let reversed=name.split("").reverse().join("");
+// console.log(reversed);
+
+// let name="Aslam";
+// name1=name.split("");
+// console.log(name1);
+// name2=name1.reverse();
+// console.log(name2);
+// name3=name2.join("");
+// console.log(name3);
+
+// let fullName="Aslam Dahri";
+// splitedname=fullName.split("");
+// console.log(splitedname);
+// reversedname=splitedname.reverse();
+// console.log(reversedname);
+// joinreversed_in_order=reversedname.join("");
+// console.log(joinreversed_in_order);
+
