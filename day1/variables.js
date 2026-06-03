@@ -36,3 +36,68 @@ console.log("My name is "+Fullname+" i am "+age+" years old");
 // isLightoff=true;
 // console.log(isLightoff);
 
+// let a=4;
+// console.log(a);
+
+// let name="Aslam";
+// console.log(name);
+
+// {
+//     let name="Aslam";
+//     console.log(name);
+// }
+// {
+//     let name="Aslam";
+
+// }
+// console.log(name); // This will give error because it is out of scope.by using let keyword is only accessible in blocked-scope.
+
+
+// var a=3;
+// // console.log(a);
+
+// {
+//     var a="Hi";
+//     console.log(a);
+// }
+
+// {
+//     var name="Aslam";
+// }
+// console.log(name);
+
+// function name(){
+//     var a="hi";
+//     console.log(a);
+// }
+// name();
+
+// const a=3;
+// console.log(a);
+
+// {
+//     const a=3;
+//     // console.log(a);
+// }
+// console.log(a);
+
+// function a(){
+//     const b=3;
+//     console.log(b);
+// }
+// a();
+
+// if(true){
+//     let a=4;
+//     console.log(Boolean(0));
+// }
+
+// let age;
+// console.log(age);
+
+// let age=null;
+// console.log(age);
+// let age=null;
+// let num=36543439909;
+// console.log(typeof num);
+// console.log(typeof age);
